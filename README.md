@@ -1,16 +1,13 @@
-## Hi there 👋
+## BEM VINDO AO MEU PERFIL 💕
 
-<!--
-**isabelinha007/isabelinha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ MEU NOME É MARIA ISABELA DAL SANTO ANDRADE.
 
-Here are some ideas to get you started:
+- ESTOU DESENVOLVENDO NA LINGUAGEM JAVASCRIPT E MARKDOWN.
+ 
+- ESTE É MEU REPOSITÓRIO PARA COMPARTILHAMENTO DE PROJETOS PESSOAIS DA PLATAFORMA ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## VOCÊ PODE ENTRAR EM CONTATO COMIGO :##
+
+- 00001068238501sp@al.educacao.sp.gov.br
+
+- ![](https://media1.tenor.com/m/vBicH3Lgb5MAAAAd/the-office-party.gif)
